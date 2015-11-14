@@ -1,0 +1,78 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\PC\Documents\Card Game\Historica_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\PC\Documents\Card Game\Historica_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Documents\Card Game\Historica_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\PC\Documents\Card Game\Historica_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Documents\Card Game\Historica_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\PC\Documents\Card Game\Historica_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Documents\Card Game\Historica_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\PC\Documents\Card Game\Historica_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Documents\Card Game\Historica_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.258 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\PC\Documents\Card Game\Historica_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 21a4 -> priority: 1 
+OnBeginDrag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Card 1 was dropped on Tabletop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+OnEndDrag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.468889 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 0.393074 ms (FindLiveObjects: 0.035602 ms CreateObjectMapping: 0.022131 ms MarkObjects: 0.299256 ms  DeleteObjects: 0.030791 ms)
+
+OnBeginDrag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+OnEndDrag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+OnBeginDrag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+OnEndDrag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+OnBeginDrag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Card was dropped on Tabletop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+OnEndDrag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.791209 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.363726 ms (FindLiveObjects: 0.041857 ms CreateObjectMapping: 0.019725 ms MarkObjects: 0.282898 ms  DeleteObjects: 0.016839 ms)
+
